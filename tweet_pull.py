@@ -4,7 +4,7 @@ import json
 
 #Use this if you want to set terminal envrionment to save bearer token
 # bearer_token = os.environ.get("BEARER_TOKEN")
-bearer_token = 'AAAAAAAAAAAAAAAAAAAAAHcWhAEAAAAAkLIhwxw5n86Z%2F9kXGd4j3U%2BYqQY%3DDqkOFob5P4RWa8Kgq8E2XiGyFx0u5oihSlCCBysoVxhKiWSZfz'
+bearer_token = 
 
 search_url = "https://api.twitter.com/2/tweets/search/recent"
 
