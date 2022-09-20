@@ -1,0 +1,14 @@
+curl -d '{
+    "recentSearch" : {
+        "query" : “(from:KDTrey5 -is:retweet”,
+        "maxResults" : 100,
+        "startTime" : "2022-09-10T17:00:00.00Z",
+        "endTime" : "2022-09-15T17:00:00.00Z",
+        "category" : “First Person Shooter”,
+        "subCategory" : "Warzone”
+    },
+    "dataSet" : {
+        "newDataSet" : true,
+        "dataSetName" : “FPS”    
+    }
+}' -H 'Content-Type: application/json' https://twitter-project-362620.ue.r.appspot.com/search
