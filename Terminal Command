@@ -12,3 +12,10 @@ curl -d '{
         "dataSetName" : “FPS”    
     }
 }' -H 'Content-Type: application/json' https://twitter-project-362620.ue.r.appspot.com/search
+
+
+
+
+
+//https://datastudio.google.com/reporting/f48535c6-bd14-453e-a9c9-f6305a6efc43
+//Google studio link which takes loaded data from google cloud and allows user to create graphs, tables etc
